@@ -14,6 +14,8 @@ dist/
 build/
 styles/
 controllers/
+routes/
+middlewares/
 
 
 # OS-specific files
